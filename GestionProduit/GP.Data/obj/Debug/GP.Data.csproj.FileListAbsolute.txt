@@ -1,0 +1,37 @@
+D:\ESPRIT\4SE4\S2\.NET\TPs\GestionProduit\GP.Data\bin\Debug\GP.Data.dll.config
+D:\ESPRIT\4SE4\S2\.NET\TPs\GestionProduit\GP.Data\bin\Debug\GP.Data.dll
+D:\ESPRIT\4SE4\S2\.NET\TPs\GestionProduit\GP.Data\bin\Debug\GP.Data.pdb
+D:\ESPRIT\4SE4\S2\.NET\TPs\GestionProduit\GP.Data\bin\Debug\EntityFramework.dll
+D:\ESPRIT\4SE4\S2\.NET\TPs\GestionProduit\GP.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\ESPRIT\4SE4\S2\.NET\TPs\GestionProduit\GP.Data\bin\Debug\GP.Domain.dll
+D:\ESPRIT\4SE4\S2\.NET\TPs\GestionProduit\GP.Data\bin\Debug\GP.Domain.pdb
+D:\ESPRIT\4SE4\S2\.NET\TPs\GestionProduit\GP.Data\bin\Debug\GP.Domain.dll.config
+D:\ESPRIT\4SE4\S2\.NET\TPs\GestionProduit\GP.Data\bin\Debug\EntityFramework.xml
+D:\ESPRIT\4SE4\S2\.NET\TPs\GestionProduit\GP.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\ESPRIT\4SE4\S2\.NET\TPs\GestionProduit\GP.Data\obj\Debug\GP.Data.csprojAssemblyReference.cache
+D:\ESPRIT\4SE4\S2\.NET\TPs\GestionProduit\GP.Data\obj\Debug\GP.Data.csproj.CoreCompileInputs.cache
+D:\ESPRIT\4SE4\S2\.NET\TPs\GestionProduit\GP.Data\obj\Debug\GP.Data.csproj.CopyComplete
+D:\ESPRIT\4SE4\S2\.NET\TPs\GestionProduit\GP.Data\obj\Debug\GP.Data.dll
+D:\ESPRIT\4SE4\S2\.NET\TPs\GestionProduit\GP.Data\obj\Debug\GP.Data.pdb
+D:\1- 4-SE-4\sem_2\dot.NET\seance 6\GestionProduit\GP.Data\bin\Debug\GP.Data.dll.config
+D:\1- 4-SE-4\sem_2\dot.NET\seance 6\GestionProduit\GP.Data\bin\Debug\GP.Data.dll
+D:\1- 4-SE-4\sem_2\dot.NET\seance 6\GestionProduit\GP.Data\bin\Debug\GP.Data.pdb
+D:\1- 4-SE-4\sem_2\dot.NET\seance 6\GestionProduit\GP.Data\bin\Debug\EntityFramework.dll
+D:\1- 4-SE-4\sem_2\dot.NET\seance 6\GestionProduit\GP.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\1- 4-SE-4\sem_2\dot.NET\seance 6\GestionProduit\GP.Data\bin\Debug\GP.Domain.dll
+D:\1- 4-SE-4\sem_2\dot.NET\seance 6\GestionProduit\GP.Data\bin\Debug\GP.Domain.pdb
+D:\1- 4-SE-4\sem_2\dot.NET\seance 6\GestionProduit\GP.Data\bin\Debug\GP.Domain.dll.config
+D:\1- 4-SE-4\sem_2\dot.NET\seance 6\GestionProduit\GP.Data\bin\Debug\EntityFramework.xml
+D:\1- 4-SE-4\sem_2\dot.NET\seance 6\GestionProduit\GP.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\1- 4-SE-4\sem_2\dot.NET\seance 6\GestionProduit\GP.Data\obj\Debug\GP.Data.csprojAssemblyReference.cache
+D:\1- 4-SE-4\sem_2\dot.NET\seance 6\GestionProduit\GP.Data\obj\Debug\GP.Data.csproj.CoreCompileInputs.cache
+D:\1- 4-SE-4\sem_2\dot.NET\seance 6\GestionProduit\GP.Data\obj\Debug\GP.Data.csproj.CopyComplete
+D:\1- 4-SE-4\sem_2\dot.NET\seance 6\GestionProduit\GP.Data\obj\Debug\GP.Data.dll
+D:\1- 4-SE-4\sem_2\dot.NET\seance 6\GestionProduit\GP.Data\obj\Debug\GP.Data.pdb
+D:\1- 4-SE-4\sem_2\dot.NET\seance 6\GestionProduit\GP.Data\obj\Debug\GP.Data.Migrations.InitialCreate.resources
+D:\1- 4-SE-4\sem_2\dot.NET\seance 6\GestionProduit\GP.Data\obj\Debug\GP.Data.csproj.GenerateResource.cache
+D:\1- 4-SE-4\sem_2\dot.NET\seance 6\GestionProduit\GP.Data\obj\Debug\GP.Data.Migrations.MigImge.resources
+D:\1- 4-SE-4\sem_2\dot.NET\seance 6\GestionProduit\GP.Data\obj\Debug\GP.Data.Migrations.imagenme.resources
+D:\1- 4-SE-4\sem_2\dot.NET\seance 6\GestionProduit\GP.Data\obj\Debug\GP.Data.Migrations.MigAdres.resources
+D:\1- 4-SE-4\sem_2\dot.NET\seance 6\GestionProduit\GP.Data\obj\Debug\GP.Data.Migrations.MigConfig.resources
+D:\1- 4-SE-4\sem_2\dot.NET\seance 6\GestionProduit\GP.Data\obj\Debug\GP.Data.Migrations.migconfg.resources
